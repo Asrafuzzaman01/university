@@ -1,0 +1,37 @@
+
+
+
+body{ background-color:lightblue  }
+
+
+
+
+
+    ul{
+
+
+
+    	list-style-type:none;
+            margin:0px; 
+          padding:0;
+          overflow: hidden;
+         background-color:red;
+         
+    }  
+    li{
+    	float:left;
+
+    	
+    }
+    li {
+  display: block;
+  color: #33333;
+  text-align:center ;
+  padding:16px;
+  text-decoration: none;
+}
+
+li:hover{
+  background-color:tomato;
+}
+ 
